@@ -1,0 +1,6 @@
+framework module KLYCategory {
+  umbrella header "KLYCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

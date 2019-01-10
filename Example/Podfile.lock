@@ -1,0 +1,16 @@
+PODS:
+  - KLYCategory (0.1.0)
+
+DEPENDENCIES:
+  - KLYCategory (from `../`)
+
+EXTERNAL SOURCES:
+  KLYCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KLYCategory: 1f9a08e6e847de7af37e01951c5bac02edc93728
+
+PODFILE CHECKSUM: 492046d58777400908b617e5485043a10a959b33
+
+COCOAPODS: 1.5.3
